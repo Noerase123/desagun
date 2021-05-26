@@ -1,3 +1,7 @@
+body {
+    scroll-behavior: smooth;
+}
+
 .card-css {
     padding: 20px;
     border-radius: 20px;
